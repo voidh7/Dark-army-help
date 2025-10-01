@@ -296,7 +296,7 @@ def redes_sociais():
         "BRASIL.DEV CHANNEL": "https://whatsapp.com/channel/0029Vb8DlDL9MF95R8e8Px1o", 
         "BRASIL.DEV TELEGRAM": "https://t.me/brasildevofc/",
         "vøidh7 GITHUB": "https://github.com/voidh7",
-        "darkZer0 GITHUB": "https://github.com/DarkZer010/"
+        
     }
     
     for rede, link in redes.items():
